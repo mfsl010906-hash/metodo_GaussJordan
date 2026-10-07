@@ -1,11 +1,16 @@
 # metodo de Gauss_Jordan
 ---
 
-**Asignatura:** Métodos Numéricos
-**Docente:** Víctor Hugo Vásquez Herrera
-**Institución:** Instituto Tecnológico Superior de Xalapa 
-**Carrera:** Ingeniería en Sistemas Computacionales
-**Alumna:** María Fátima Sánchez Landa (No. de Control: 25702876) (3º"B")
+**Asignatura:** 
+Métodos Numéricos
+**Docente:** 
+Víctor Hugo Vásquez Herrera
+**Institución:** 
+Instituto Tecnológico Superior de Xalapa 
+**Carrera:** 
+Ingeniería en Sistemas Computacionales
+**Alumna:** 
+María Fátima Sánchez Landa (No. de Control: 25702876) (3º"B")
 
 ---
 
