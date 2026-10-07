@@ -44,7 +44,7 @@ Clase donde se ejecuta, se coordina la llamada a los métodos, procesa los datos
 
 **ejemplo de prueba**
 prueba 1
-matriz
+--- matriz ---
  {3.0, -0.1, -0.2,7.85 },
  {0.1, 7.0, -0.3, -19.3 },
  {0.3, -0.2, 10.0, 71.4 },
@@ -52,6 +52,8 @@ matriz
 ---
 
  **salida de consola**
+--- 
+
 Solución del sistema de ecuaciones(metodo de Gauss_Jordan):
 x[0] = 3.0000
 x[1] = -2.5000
