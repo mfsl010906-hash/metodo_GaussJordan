@@ -1,6 +1,6 @@
 # metodo de Gauss_Jordan
+
 ---
-**datos generales**
 
 **Asignatura:** 
 Métodos Numéricos
