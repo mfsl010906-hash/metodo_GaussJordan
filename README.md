@@ -1,3 +1,4 @@
+# metodo de Gauss_Jordan
 **Asignatura** Métodos Numéricos
 **Docente** Víctor Hugo Vásquez Herrera
 **Institución** Instituto Tecnológico Superior de Xalapa 
